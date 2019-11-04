@@ -13,12 +13,3 @@ ai mezzi del nostro palcoscenico e all'opinione diffidente della moltitudine. L'
 
 Rainer Maria Rilke
 *Appunti sulla melodia delle cose*
-
-## to do list
-
- - [] registrazione vento in montagna a diverse altezze da terra
- - [] modello fisico
-    + [] rumore intonato con controllo larghezza banda filtro
-    + [] waveshaping 
-    + [] tubo
- - [] 
